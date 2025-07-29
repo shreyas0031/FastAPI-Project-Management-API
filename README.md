@@ -159,11 +159,3 @@ pip install fastapi sqlmodel psycopg2-binary uvicorn python-jose passlib python-
 
 **Shreyas Patil**
 GitHub: [@shreyaspatil31](https://github.com/shreyaspatil31)
-
----
-
-## 📄 License
-
-MIT License
-
-```
